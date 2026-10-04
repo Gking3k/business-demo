@@ -35,13 +35,8 @@ function Gallery() {
             <div className="section-heading section-heading-split">
               <div>
                 <p className="eyebrow">SELECTED WORK</p>
-                <h2>A closer look at what we do.</h2>
+                <h2>A closer look at what we do best.</h2>
               </div>
-
-              <p>
-                Replace these images with your client's actual projects,
-                products, spaces or completed work.
-              </p>
             </div>
           </Reveal>
 
